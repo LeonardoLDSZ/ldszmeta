@@ -14,14 +14,9 @@ Project developed during Devsuperior's "Spring React" week (@devsuperior.ig):
 
 ===============================================================
 
-List of sellers containing and possibility to filter by period:
+List of sellers containing and possibility to filter by period.
 
-ID
-Date
-seller
-visits
-sales
-Total
+Informations: ID, date, seller, visits, sales, total.
 Notification by SMS
 
 ===============================================================
